@@ -22,7 +22,7 @@
 ### Some important stuff
 + Don't copy the EFI blindly, you could harm your system
 + Use the Desktop Guide to tailor your own EFI, matching your setup
-+ OpenCore logging is disabled
++ OpenCore logging is disabled, you should enable it for troubleshooting
 + Change the platform info when your done installing
 
 ### References and credits
