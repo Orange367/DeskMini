@@ -4,6 +4,7 @@
 + macOS Catalina 10.15.4
 + OpenCore 0.5.7
 + DeskMini 310
++ Bios version 4.20
 + Intel core i3-8100
 + HyperX HX426S15IB2K2 16Gb kit
 + Crucial SATA MX500 250Gb
