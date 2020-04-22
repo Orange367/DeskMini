@@ -19,11 +19,17 @@
 + Advanced > Security > Secure Boot: Disabled
 + BOOT > CSM: Enabled
 
+### What's working
++ Sleep
++ Handoff, Sidecar, iServices
++ WiFi and Bluetooth without patching
++ Video acceleration
+
 ### Some important stuff
 + Don't copy the EFI blindly, you could harm your system
 + Use the Desktop Guide to tailor your own EFI, matching your setup
 + OpenCore logging is disabled, you should enable it for troubleshooting
-+ Change the platform info when your done installing
++ Change the platform info when your done installing to enable iServices
 
 ### References and credits
 + [OpenCore Desktop Guide](https://dortania.github.io/OpenCore-Desktop-Guide/)
