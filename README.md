@@ -30,6 +30,7 @@
 + Use the Desktop Guide to tailor your own EFI, matching your setup
 + OpenCore logging is disabled, you should enable it for troubleshooting
 + Change the platform info when your done installing to enable iServices
++ I don't provide any support, it is provided "as is" and is soley meant for sharing knowledge 
 
 ### References and credits
 + [OpenCore Desktop Guide](https://dortania.github.io/OpenCore-Desktop-Guide/)
